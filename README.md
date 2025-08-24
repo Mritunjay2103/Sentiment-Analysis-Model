@@ -1,3 +1,4 @@
 # Sentiment-Analysis-Model
 
-<img width="1080" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/4a0c7a8f-bcb7-4174-b157-1f6ecb77efb4" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/de86332f-bfce-4857-a026-ff5493f7d3d9" />
+
